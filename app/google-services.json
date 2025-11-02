@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629433039829",
+    "project_id": "skippyapplication-13ad8",
+    "storage_bucket": "skippyapplication-13ad8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629433039829:android:7e8dc96f152859e00cdb5c",
+        "android_client_info": {
+          "package_name": "com.spoorthy.skippyapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RXrh-3DfHAh7HLS81-8tqVRVskYL3a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
